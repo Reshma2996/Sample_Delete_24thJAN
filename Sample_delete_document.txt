@@ -1,1 +1,5 @@
 This is my sample document to verify how git bash and git commands works
+
+---
+
+This is the additional line I am adding to verify if it is reflecting on my additional commands
